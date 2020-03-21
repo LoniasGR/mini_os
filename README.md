@@ -12,3 +12,7 @@ A minimal OS (possibly) and a bootlader (probably) for an ARM system.
 * [OSDev ARM page](https://wiki.osdev.org/ARM_Overview)
 * [ARM Cortex A9 Reference Manual](http://infocenter.arm.com/help/topic/com.arm.doc.ddi0388f/DDI0388F_cortex_a9_r2p2_trm.pdf)
 * [Bootloader for ARM Cortex-M0: No VTOR](http://kevincuzner.com/2018/11/13/bootloader-for-arm-cortex-m0-no-vtor/)
+
+## Other tutorials
+
+* [How to implement your own hello world bootloader](https://blog.ghaiklor.com/2017/10/21/how-to-implement-your-own-hello-world-boot-loader)
